@@ -1,0 +1,341 @@
+2024-07-15 12:26:15,136 - INFO -         Name  Department   status
+0   chandana    mtech ai   passed
+1       Name  Department   status
+2       ruby    mtech cs   passed
+3       Name  Department   status
+4   chandana    mtech ai   passed
+5       Name  Department   status
+6       ruby    mtech cs   passed
+7       Name  Department   status
+8   chandana    mtech ai      NaN
+9       ruby         NaN      NaN
+10      Name  Department   Status
+11      ruby    mtech ai   passed
+12  chandana    mtech cs   passed
+13      Name  Department   Status
+14     ruby     mtech cs   passed
+15   chandna    mtech ai  passsed
+2024-07-15 12:26:17,339 - INFO -         Name  Department   status
+0   chandana    mtech ai   passed
+1       Name  Department   status
+2       ruby    mtech cs   passed
+3       Name  Department   status
+4   chandana    mtech ai   passed
+5       Name  Department   status
+6       ruby    mtech cs   passed
+7       Name  Department   status
+8   chandana    mtech ai      NaN
+9       ruby         NaN      NaN
+10      Name  Department   Status
+11      ruby    mtech ai   passed
+12  chandana    mtech cs   passed
+13      Name  Department   Status
+14     ruby     mtech cs   passed
+15   chandna    mtech ai  passsed
+2024-07-15 12:27:05,404 - INFO - context in file: {'Name': 'chandana', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:27:05,404 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:27:05,404 - INFO - context in file: {'Name': 'ruby', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:27:05,404 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:27:05,404 - INFO - context in file: {'Name': 'chandana', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:27:05,404 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:27:05,405 - INFO - context in file: {'Name': 'ruby', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:27:05,405 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:27:05,405 - INFO - context in file: {'Name': 'chandana', 'Department': 'mtech ai', 'status': ''}
+2024-07-15 12:27:05,405 - INFO - context in file: {'Name': 'ruby', 'Department': '', 'status': ''}
+2024-07-15 12:27:05,405 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'Status'}
+2024-07-15 12:27:05,405 - INFO - context in file: {'Name': 'ruby', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:27:05,405 - INFO - context in file: {'Name': 'chandana', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:27:05,405 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'Status'}
+2024-07-15 12:27:05,405 - INFO - context in file: {'Name': 'ruby ', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:27:05,405 - INFO - context in file: {'Name': 'chandna', 'Department': 'mtech ai', 'status': 'passsed'}
+2024-07-15 12:27:08,012 - INFO - context in file: {'Name': 'chandana', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:27:08,012 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:27:08,012 - INFO - context in file: {'Name': 'ruby', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:27:08,012 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:27:08,012 - INFO - context in file: {'Name': 'chandana', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:27:08,012 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:27:08,012 - INFO - context in file: {'Name': 'ruby', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:27:08,012 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:27:08,012 - INFO - context in file: {'Name': 'chandana', 'Department': 'mtech ai', 'status': ''}
+2024-07-15 12:27:08,012 - INFO - context in file: {'Name': 'ruby', 'Department': '', 'status': ''}
+2024-07-15 12:27:08,012 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'Status'}
+2024-07-15 12:27:08,012 - INFO - context in file: {'Name': 'ruby', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:27:08,012 - INFO - context in file: {'Name': 'chandana', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:27:08,013 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'Status'}
+2024-07-15 12:27:08,013 - INFO - context in file: {'Name': 'ruby ', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:27:08,013 - INFO - context in file: {'Name': 'chandna', 'Department': 'mtech ai', 'status': 'passsed'}
+2024-07-15 12:27:14,835 - INFO - context in file: {'Name': 'chandana', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:27:14,835 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:27:14,835 - INFO - context in file: {'Name': 'ruby', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:27:14,835 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:27:14,835 - INFO - context in file: {'Name': 'chandana', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:27:14,835 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:27:14,835 - INFO - context in file: {'Name': 'ruby', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:27:14,835 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:27:14,835 - INFO - context in file: {'Name': 'chandana', 'Department': 'mtech ai', 'status': ''}
+2024-07-15 12:27:14,835 - INFO - context in file: {'Name': 'ruby', 'Department': '', 'status': ''}
+2024-07-15 12:27:14,835 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'Status'}
+2024-07-15 12:27:14,835 - INFO - context in file: {'Name': 'ruby', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:27:14,835 - INFO - context in file: {'Name': 'chandana', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:27:14,835 - INFO - context in file: {'Name': 'Name', 'Department': 'Department', 'status': 'Status'}
+2024-07-15 12:27:14,835 - INFO - context in file: {'Name': 'ruby ', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:27:14,835 - INFO - context in file: {'Name': 'chandna', 'Department': 'mtech ai', 'status': 'passsed'}
+2024-07-15 12:27:22,169 - INFO - Read line: {'Name': 'chandana', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:27:22,169 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:27:22,169 - INFO - Read line: {'Name': 'ruby', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:27:22,169 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:27:22,169 - INFO - Read line: {'Name': 'chandana', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:27:22,169 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:27:22,169 - INFO - Read line: {'Name': 'ruby', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:27:22,169 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:27:22,169 - INFO - Read line: {'Name': 'chandana', 'Department': 'mtech ai', 'status': ''}
+2024-07-15 12:27:22,169 - INFO - Read line: {'Name': 'ruby', 'Department': '', 'status': ''}
+2024-07-15 12:27:22,169 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'Status'}
+2024-07-15 12:27:22,169 - INFO - Read line: {'Name': 'ruby', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:27:22,169 - INFO - Read line: {'Name': 'chandana', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:27:22,169 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'Status'}
+2024-07-15 12:27:22,169 - INFO - Read line: {'Name': 'ruby ', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:27:22,169 - INFO - Read line: {'Name': 'chandna', 'Department': 'mtech ai', 'status': 'passsed'}
+2024-07-15 12:27:43,361 - INFO - Read line:         Name  Department   status
+0   chandana    mtech ai   passed
+1       Name  Department   status
+2       ruby    mtech cs   passed
+3       Name  Department   status
+4   chandana    mtech ai   passed
+5       Name  Department   status
+6       ruby    mtech cs   passed
+7       Name  Department   status
+8   chandana    mtech ai      NaN
+9       ruby         NaN      NaN
+10      Name  Department   Status
+11      ruby    mtech ai   passed
+12  chandana    mtech cs   passed
+13      Name  Department   Status
+14     ruby     mtech cs   passed
+15   chandna    mtech ai  passsed
+2024-07-15 12:28:40,326 - INFO - Read line: {'Name': 'chandana', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:28:40,326 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:28:40,326 - INFO - Read line: {'Name': 'ruby', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:28:40,326 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:28:40,326 - INFO - Read line: {'Name': 'chandana', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:28:40,326 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:28:40,326 - INFO - Read line: {'Name': 'ruby', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:28:40,326 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:28:40,326 - INFO - Read line: {'Name': 'chandana', 'Department': 'mtech ai', 'status': ''}
+2024-07-15 12:28:40,326 - INFO - Read line: {'Name': 'ruby', 'Department': '', 'status': ''}
+2024-07-15 12:28:40,326 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'Status'}
+2024-07-15 12:28:40,326 - INFO - Read line: {'Name': 'ruby', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:28:40,326 - INFO - Read line: {'Name': 'chandana', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:28:40,326 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'Status'}
+2024-07-15 12:28:40,326 - INFO - Read line: {'Name': 'ruby ', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:28:40,326 - INFO - Read line: {'Name': 'chandna', 'Department': 'mtech ai', 'status': 'passsed'}
+2024-07-15 12:28:44,316 - INFO - Read line: {'Name': 'chandana', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:28:44,317 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:28:44,317 - INFO - Read line: {'Name': 'ruby', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:28:44,317 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:28:44,317 - INFO - Read line: {'Name': 'chandana', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:28:44,317 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:28:44,317 - INFO - Read line: {'Name': 'ruby', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:28:44,317 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'status'}
+2024-07-15 12:28:44,317 - INFO - Read line: {'Name': 'chandana', 'Department': 'mtech ai', 'status': ''}
+2024-07-15 12:28:44,317 - INFO - Read line: {'Name': 'ruby', 'Department': '', 'status': ''}
+2024-07-15 12:28:44,318 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'Status'}
+2024-07-15 12:28:44,318 - INFO - Read line: {'Name': 'ruby', 'Department': 'mtech ai', 'status': 'passed'}
+2024-07-15 12:28:44,318 - INFO - Read line: {'Name': 'chandana', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:28:44,318 - INFO - Read line: {'Name': 'Name', 'Department': 'Department', 'status': 'Status'}
+2024-07-15 12:28:44,318 - INFO - Read line: {'Name': 'ruby ', 'Department': 'mtech cs', 'status': 'passed'}
+2024-07-15 12:28:44,318 - INFO - Read line: {'Name': 'chandna', 'Department': 'mtech ai', 'status': 'passsed'}
+2024-07-15 12:29:32,847 - INFO - context in file: {'Name': 'chandna', 'Department': 'mtech ai', 'status': 'passsed'}
+2024-07-15 12:29:39,132 - INFO - context in file: {'Name': 'chandna', 'Department': 'mtech ai', 'status': 'passsed'}
+2024-07-15 12:29:50,944 - INFO - context in file:         Name  Department   status
+0   chandana    mtech ai   passed
+1       Name  Department   status
+2       ruby    mtech cs   passed
+3       Name  Department   status
+4   chandana    mtech ai   passed
+5       Name  Department   status
+6       ruby    mtech cs   passed
+7       Name  Department   status
+8   chandana    mtech ai      NaN
+9       ruby         NaN      NaN
+10      Name  Department   Status
+11      ruby    mtech ai   passed
+12  chandana    mtech cs   passed
+13      Name  Department   Status
+14     ruby     mtech cs   passed
+15   chandna    mtech ai  passsed
+2024-07-15 12:51:53,532 - INFO - context in file using pandas:         Name  Department   status
+0   chandana    mtech ai   passed
+1       Name  Department   status
+2       ruby    mtech cs   passed
+3       Name  Department   status
+4   chandana    mtech ai   passed
+5       Name  Department   status
+6       ruby    mtech cs   passed
+7       Name  Department   status
+8   chandana    mtech ai      NaN
+9       ruby         NaN      NaN
+10      Name  Department   Status
+11      ruby    mtech ai   passed
+12  chandana    mtech cs   passed
+13      Name  Department   Status
+14     ruby     mtech cs   passed
+15   chandna    mtech ai  passsed
+2024-07-15 12:52:03,545 - INFO - context in file using pandas:         Name  Department   status
+0   chandana    mtech ai   passed
+1       Name  Department   status
+2       ruby    mtech cs   passed
+3       Name  Department   status
+4   chandana    mtech ai   passed
+5       Name  Department   status
+6       ruby    mtech cs   passed
+7       Name  Department   status
+8   chandana    mtech ai      NaN
+9       ruby         NaN      NaN
+10      Name  Department   Status
+11      ruby    mtech ai   passed
+12  chandana    mtech cs   passed
+13      Name  Department   Status
+14     ruby     mtech cs   passed
+15   chandna    mtech ai  passsed
+2024-07-15 12:52:08,009 - INFO - context in file using pandas:         Name  Department   status
+0   chandana    mtech ai   passed
+1       Name  Department   status
+2       ruby    mtech cs   passed
+3       Name  Department   status
+4   chandana    mtech ai   passed
+5       Name  Department   status
+6       ruby    mtech cs   passed
+7       Name  Department   status
+8   chandana    mtech ai      NaN
+9       ruby         NaN      NaN
+10      Name  Department   Status
+11      ruby    mtech ai   passed
+12  chandana    mtech cs   passed
+13      Name  Department   Status
+14     ruby     mtech cs   passed
+15   chandna    mtech ai  passsed
+2024-07-15 13:48:13,687 - INFO - context in file using pandas:         Name  Department   status
+0   chandana    mtech ai   passed
+1       Name  Department   status
+2       ruby    mtech cs   passed
+3       Name  Department   status
+4   chandana    mtech ai   passed
+5       Name  Department   status
+6       ruby    mtech cs   passed
+7       Name  Department   status
+8   chandana    mtech ai      NaN
+9       ruby         NaN      NaN
+10      Name  Department   Status
+11      ruby    mtech ai   passed
+12  chandana    mtech cs   passed
+13      Name  Department   Status
+14     ruby     mtech cs   passed
+15   chandna    mtech ai  passsed
+2024-07-15 13:48:31,812 - INFO - context in file using pandas:         Name  Department   status
+0   chandana    mtech ai   passed
+1       Name  Department   status
+2       ruby    mtech cs   passed
+3       Name  Department   status
+4   chandana    mtech ai   passed
+5       Name  Department   status
+6       ruby    mtech cs   passed
+7       Name  Department   status
+8   chandana    mtech ai      NaN
+9       ruby         NaN      NaN
+10      Name  Department   Status
+11      ruby    mtech ai   passed
+12  chandana    mtech cs   passed
+13      Name  Department   Status
+14     ruby     mtech cs   passed
+15   chandna    mtech ai  passsed
+2024-07-15 13:48:36,230 - INFO - context in file using pandas:         Name  Department   status
+0   chandana    mtech ai   passed
+1       Name  Department   status
+2       ruby    mtech cs   passed
+3       Name  Department   status
+4   chandana    mtech ai   passed
+5       Name  Department   status
+6       ruby    mtech cs   passed
+7       Name  Department   status
+8   chandana    mtech ai      NaN
+9       ruby         NaN      NaN
+10      Name  Department   Status
+11      ruby    mtech ai   passed
+12  chandana    mtech cs   passed
+13      Name  Department   Status
+14     ruby     mtech cs   passed
+15   chandna    mtech ai  passsed
+2024-07-15 13:49:39,247 - INFO - context in file using pandas:         Name  Department   status
+0   chandana    mtech ai   passed
+1       Name  Department   status
+2       ruby    mtech cs   passed
+3       Name  Department   status
+4   chandana    mtech ai   passed
+5       Name  Department   status
+6       ruby    mtech cs   passed
+7       Name  Department   status
+8   chandana    mtech ai      NaN
+9       ruby         NaN      NaN
+10      Name  Department   Status
+11      ruby    mtech ai   passed
+12  chandana    mtech cs   passed
+13      Name  Department   Status
+14     ruby     mtech cs   passed
+15   chandna    mtech ai  passsed
+2024-07-15 13:49:41,756 - INFO - context in file using pandas:         Name  Department   status
+0   chandana    mtech ai   passed
+1       Name  Department   status
+2       ruby    mtech cs   passed
+3       Name  Department   status
+4   chandana    mtech ai   passed
+5       Name  Department   status
+6       ruby    mtech cs   passed
+7       Name  Department   status
+8   chandana    mtech ai      NaN
+9       ruby         NaN      NaN
+10      Name  Department   Status
+11      ruby    mtech ai   passed
+12  chandana    mtech cs   passed
+13      Name  Department   Status
+14     ruby     mtech cs   passed
+15   chandna    mtech ai  passsed
+2024-07-15 13:50:05,305 - INFO - context in file using pandas:         Name  Department   status
+0   chandana    mtech ai   passed
+1       Name  Department   status
+2       ruby    mtech cs   passed
+3       Name  Department   status
+4   chandana    mtech ai   passed
+5       Name  Department   status
+6       ruby    mtech cs   passed
+7       Name  Department   status
+8   chandana    mtech ai      NaN
+9       ruby         NaN      NaN
+10      Name  Department   Status
+11      ruby    mtech ai   passed
+12  chandana    mtech cs   passed
+13      Name  Department   Status
+14     ruby     mtech cs   passed
+15   chandna    mtech ai  passsed
+2024-07-15 13:52:22,064 - INFO - context in file using pandas:         Name  Department   status
+0   chandana    mtech ai   passed
+1       Name  Department   status
+2       ruby    mtech cs   passed
+3       Name  Department   status
+4   chandana    mtech ai   passed
+5       Name  Department   status
+6       ruby    mtech cs   passed
+7       Name  Department   status
+8   chandana    mtech ai      NaN
+9       ruby         NaN      NaN
+10      Name  Department   Status
+11      ruby    mtech ai   passed
+12  chandana    mtech cs   passed
+13      Name  Department   Status
+14     ruby     mtech cs   passed
+15   chandna    mtech ai  passsed
+2024-07-15 13:53:12,415 - INFO - context in file using pandas:    Unnamed: 0      0       1       2
+0           0  rohan  IMTECH  PASSED
+2024-07-15 13:53:31,157 - INFO - Read line: {'': '0', '0': 'rohan', '1': 'IMTECH', '2': 'PASSED'}
+2024-07-15 13:54:05,005 - INFO - record added for chandana
+2024-07-15 13:54:05,005 - INFO - record added for ruby

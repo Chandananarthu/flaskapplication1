@@ -1,0 +1,1 @@
+2024-07-25 11:37:14,863 - flask_sql_exp6 - ERROR - Unexpected error: (1062, "Duplicate entry '6' for key 'students.PRIMARY'")

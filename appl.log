@@ -1,0 +1,78 @@
+2024-07-09 14:53:50,863 - INFO - Testing logging setup.
+2024-07-09 14:53:51,126 - INFO - Testing logging setup.
+09-Jul-24 14:55:15 - INFO - This is an info message
+09-Jul-24 14:55:15 - WARNING - This is a warning message
+09-Jul-24 14:55:15 - ERROR - This is an error message
+09-Jul-24 14:55:15 - CRITICAL - This is a critical message
+09-Jul-24 14:55:15 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09-Jul-24 14:55:15 - INFO - [33mPress CTRL+C to quit[0m
+09-Jul-24 14:55:15 - INFO -  * Restarting with stat
+09-Jul-24 14:55:15 - INFO - This is an info message
+09-Jul-24 14:55:15 - WARNING - This is a warning message
+09-Jul-24 14:55:15 - ERROR - This is an error message
+09-Jul-24 14:55:15 - CRITICAL - This is a critical message
+09-Jul-24 14:55:15 - WARNING -  * Debugger is active!
+09-Jul-24 14:55:15 - INFO -  * Debugger PIN: 906-084-638
+09-Jul-24 14:56:23 - INFO - This is an info message
+09-Jul-24 14:56:23 - WARNING - This is a warning message
+09-Jul-24 14:56:23 - ERROR - This is an error message
+09-Jul-24 14:56:23 - CRITICAL - This is a critical message
+09-Jul-24 14:56:23 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09-Jul-24 14:56:23 - INFO - [33mPress CTRL+C to quit[0m
+09-Jul-24 14:56:23 - INFO -  * Restarting with stat
+09-Jul-24 14:56:23 - INFO - This is an info message
+09-Jul-24 14:56:23 - WARNING - This is a warning message
+09-Jul-24 14:56:23 - ERROR - This is an error message
+09-Jul-24 14:56:23 - CRITICAL - This is a critical message
+09-Jul-24 14:56:23 - WARNING -  * Debugger is active!
+09-Jul-24 14:56:23 - INFO -  * Debugger PIN: 906-084-638
+09-Jul-24 14:57:24 - INFO - This is an info message
+09-Jul-24 14:57:24 - WARNING - This is a warning message
+09-Jul-24 14:57:24 - ERROR - This is an error message
+09-Jul-24 14:57:24 - CRITICAL - This is a critical message
+09-Jul-24 14:57:24 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09-Jul-24 14:57:24 - INFO - [33mPress CTRL+C to quit[0m
+09-Jul-24 14:57:24 - INFO -  * Restarting with stat
+09-Jul-24 14:57:24 - INFO - This is an info message
+09-Jul-24 14:57:24 - WARNING - This is a warning message
+09-Jul-24 14:57:24 - ERROR - This is an error message
+09-Jul-24 14:57:24 - CRITICAL - This is a critical message
+09-Jul-24 14:57:24 - WARNING -  * Debugger is active!
+09-Jul-24 14:57:24 - INFO -  * Debugger PIN: 906-084-638
+2024-07-09 14:58:15,681 - INFO - Testing logging setup.
+2024-07-09 14:58:15,944 - INFO - Testing logging setup.
+09-Jul-24 15:25:42 - INFO - This is an info message
+09-Jul-24 15:25:42 - WARNING - This is a warning message
+09-Jul-24 15:25:42 - ERROR - This is an error message
+09-Jul-24 15:25:42 - CRITICAL - This is a critical message
+09-Jul-24 15:25:42 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+09-Jul-24 15:25:42 - INFO - [33mPress CTRL+C to quit[0m
+09-Jul-24 15:25:42 - INFO -  * Restarting with stat
+09-Jul-24 15:25:42 - INFO - This is an info message
+09-Jul-24 15:25:42 - WARNING - This is a warning message
+09-Jul-24 15:25:42 - ERROR - This is an error message
+09-Jul-24 15:25:42 - CRITICAL - This is a critical message
+09-Jul-24 15:25:42 - WARNING -  * Debugger is active!
+09-Jul-24 15:25:42 - INFO -  * Debugger PIN: 906-084-638
+10-Jul-24 09:54:36 - INFO - This is an info message
+10-Jul-24 09:54:36 - WARNING - This is a warning message
+10-Jul-24 09:54:36 - ERROR - This is an error message
+10-Jul-24 09:54:36 - CRITICAL - This is a critical message
+10-Jul-24 09:54:36 - INFO - Addition performed: 2.0 + 8.0 = 10.0
+10-Jul-24 09:54:36 - INFO - 127.0.0.1 - - [10/Jul/2024 09:54:36] "GET /sum HTTP/1.1" 200 -
+10-Jul-24 09:54:44 - INFO - This is an info message
+10-Jul-24 09:54:44 - WARNING - This is a warning message
+10-Jul-24 09:54:44 - ERROR - This is an error message
+10-Jul-24 09:54:44 - CRITICAL - This is a critical message
+10-Jul-24 09:54:44 - INFO - Addition performed: 2.0 + 9.0 = 11.0
+10-Jul-24 09:54:44 - INFO - 127.0.0.1 - - [10/Jul/2024 09:54:44] "GET /sum HTTP/1.1" 200 -
+10-Jul-24 09:55:01 - INFO - This is an info message
+10-Jul-24 09:55:01 - WARNING - This is a warning message
+10-Jul-24 09:55:01 - ERROR - This is an error message
+10-Jul-24 09:55:01 - CRITICAL - This is a critical message
+10-Jul-24 09:55:01 - ERROR - Invalid value provided: could not convert string to float: 'first'
+10-Jul-24 09:55:01 - INFO - 127.0.0.1 - - [10/Jul/2024 09:55:01] "[35m[1mGET /sum HTTP/1.1[0m" 500 -
